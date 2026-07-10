@@ -15,7 +15,7 @@ A cryptographic, secretless machine-to-machine trust framework. Disables legacy 
        │                            │                              │
        │  2. Validate Subject Claim │                              │
        │     & Evaluate Trust (FIC) │                              │
-       │<───────────────────────────┤                              │
+       │<───────────────────────────┤                              │ 
        │                            │                              │
        │  3. Issue Short-Lived      │                              │
        │     Access Token (AT)      │                              │
